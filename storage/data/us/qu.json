@@ -1,0 +1,540 @@
+{
+    "navigation": [
+        {
+            "refinements": [
+                {
+                    "values": [
+                        {
+                            "navigationState": "/for-the-home/bedding/quilts/_/N-son2",
+                            "count": 46,
+                            "name": "Quilts in Bedding",
+                            "removeState": "?record-filter=AND%28AND%28ats_code%3AY%29%2CAND%28est_eff_price_gt_0%3AY%29%29",
+                            "refinementId": "1338302",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "/for-the-home/mattresses/mattresses/queen/_/N-qnsy",
+                            "count": 40,
+                            "name": "Queen in Mattresses",
+                            "removeState": "?record-filter=AND%28AND%28ats_code%3AY%29%2CAND%28est_eff_price_gt_0%3AY%29%29",
+                            "refinementId": "1198366",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "/for-the-home/bedding/quilts/full-queen/_/N-15npz",
+                            "count": 18,
+                            "name": "Full/Queen in Quilts",
+                            "removeState": "?record-filter=AND%28AND%28ats_code%3AY%29%2CAND%28est_eff_price_gt_0%3AY%29%29",
+                            "refinementId": "1943639",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "5",
+                                    "length": "5"
+                                },
+                                {
+                                    "location": "14",
+                                    "length": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "/for-the-home/crafts-scrapbooking/quilting-sewing/_/N-203k2",
+                            "count": 23,
+                            "name": "Quilting & Sewing in Crafts & Scrapbooking",
+                            "removeState": "?record-filter=AND%28AND%28ats_code%3AY%29%2CAND%28est_eff_price_gt_0%3AY%29%29",
+                            "refinementId": "1658662",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "8"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "/for-the-home/bedding/pillows/queen/_/N-nkr2",
+                            "count": 4,
+                            "name": "Queen in Pillows",
+                            "removeState": "?record-filter=AND%28AND%28ats_code%3AY%29%2CAND%28est_eff_price_gt_0%3AY%29%29",
+                            "refinementId": "1099982",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "/for-the-home/furniture/quilt-racks/_/N-ojry",
+                            "count": 1,
+                            "name": "Quilt Racks in Furniture",
+                            "removeState": "?record-filter=AND%28AND%28ats_code%3AY%29%2CAND%28est_eff_price_gt_0%3AY%29%29",
+                            "refinementId": "1145374",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "5"
+                                }
+                            ]
+                        }
+                    ],
+                    "count": 0,
+                    "name": "Category",
+                    "query": null,
+                    "refinementId": null,
+                    "multiSelect": "null",
+                    "showMoreIds": null
+                },
+                {
+                    "values": [
+                        {
+                            "navigationState": "fashion/quacker-factory/_/N-lgltZ1z141ve",
+                            "count": 502,
+                            "name": "Quacker Factory in Fashion",
+                            "removeState": null,
+                            "refinementId": "1001297+4294967162",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "7"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "beauty/lipstick-queen/_/N-rhtyZ1z13j07",
+                            "count": 25,
+                            "name": "Lipstick Queen in Beauty",
+                            "removeState": null,
+                            "refinementId": "1282858",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "9",
+                                    "length": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "for-the-home/quacker-factory/_/N-lgluZ1z141ve",
+                            "count": 2,
+                            "name": "Quacker Factory in For the Home",
+                            "removeState": null,
+                            "refinementId": "2220871",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "7"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "for-the-home/quoizel/_/N-lgluZ1z13zlu",
+                            "count": 16,
+                            "name": "Quoizel in For the Home",
+                            "removeState": null,
+                            "refinementId": "1943673",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "7"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "shoes-&-handbags/quietwear/_/N-uopyZ1z13enx",
+                            "count": 2,
+                            "name": "QuietWear in Shoes & Handbags",
+                            "removeState": null,
+                            "refinementId": "3645008",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "9"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "electronics/quirky/_/N-lglwZ1z13amm",
+                            "count": 2,
+                            "name": "Quirky in Electronics",
+                            "removeState": null,
+                            "refinementId": "1054722",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "for-the-home/quirky/_/N-lgluZ1z13amm",
+                            "count": 1,
+                            "name": "Quirky in For the Home",
+                            "removeState": null,
+                            "refinementId": "1054578",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "shoes-&-handbags/quacker-factory/_/N-uopyZ1z141ve",
+                            "count": 1,
+                            "name": "Quacker Factory in Shoes & Handbags",
+                            "removeState": null,
+                            "refinementId": "2126557",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "7"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "kitchen-&-food/quirky/_/N-lglvZ1z13amm",
+                            "count": 2,
+                            "name": "Quirky in Kitchen & Food",
+                            "removeState": null,
+                            "refinementId": "1186630",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "6"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "jewelry/quacker-factory/_/N-mfluZ1z141ve",
+                            "count": 1,
+                            "name": "Quacker Factory in Jewelry",
+                            "removeState": null,
+                            "refinementId": "1103902",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "7"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "for-the-home/quest-skateboards/_/N-lgluZ1z13a3f",
+                            "count": 1,
+                            "name": "Quest Skateboards in For the Home",
+                            "removeState": null,
+                            "refinementId": "1097528",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "navigationState": "electronics/questar/_/N-lglwZ1z13ak4",
+                            "count": 1,
+                            "name": "Questar in Electronics",
+                            "removeState": null,
+                            "refinementId": "1944965",
+                            "query": null,
+                            "categoryId": null,
+                            "multiSelect": "false",
+                            "highlightedRanges": [
+                                {
+                                    "location": "0",
+                                    "length": "7"
+                                }
+                            ]
+                        }
+                    ],
+                    "count": 0,
+                    "name": "Brand",
+                    "query": null,
+                    "refinementId": null,
+                    "multiSelect": "null",
+                    "showMoreIds": null
+                }
+            ],
+            "sortBy": [],
+            "breadcrumbs": null
+        }
+    ],
+    "searchFeatures": {
+        "searchTerm": "qu*",
+        "autoCorrection": null
+    },
+    "products": {
+        "0": {
+            "numberOfSkus": 3,
+            "autodelivery": null,
+            "avgRating": "4.000000",
+            "badge": "",
+            "bedSize": "",
+            "brandName": "Le Pan",
+            "category": "Tablets & E-Readers",
+            "code": "",
+            "creditTerm": "",
+            "description": "",
+            "detailColor": "",
+            "flavour": "",
+            "generic": "",
+            "hasImage": "http://images.qvc.com/is/image/e/55/e227555.001?$usmedium$",
+            "imgColorUrl": "",
+            "imgUrl": "",
+            "installments": "",
+            "jewelry": "",
+            "maxPrice": "",
+            "minPrice": "",
+            "name": "",
+            "price": "",
+            "priceRange": "",
+            "publishDate": "",
+            "reviewCount": "33",
+            "shape": "",
+            "shortDesc": "LePan Mini 8\" 8GB Quad Core Android Tablet w/ Google Play Case&Protection",
+            "size1": "",
+            "size2": "",
+            "size3": "",
+            "specialMaxPrice": "",
+            "specialMinPrice": "",
+            "specialPrice": "",
+            "specialPriceType": "",
+            "texture": "",
+            "sku": "",
+            "isBestSeller": "",
+            "url": "",
+            "sellable": "",
+            "productNbr": "E227555",
+            "estEffectivePrice": "7892",
+            "estNormalPrice": "8900",
+            "brandInCategory": "",
+            "expEZPay": "N",
+            "colors": "",
+            "highlightedRanges": [
+                {
+                    "location": "19",
+                    "length": "4"
+                }
+            ]
+        },
+        "1": {
+            "numberOfSkus": 52,
+            "autodelivery": null,
+            "avgRating": "",
+            "badge": "",
+            "bedSize": "",
+            "brandName": "Isaac Mizrahi Live!",
+            "category": "",
+            "code": "",
+            "creditTerm": "",
+            "description": "",
+            "detailColor": "",
+            "flavour": "",
+            "generic": "",
+            "hasImage": "http://images.qvc.com/is/image/a/38/a266338.001?$usmedium$",
+            "imgColorUrl": "",
+            "imgUrl": "",
+            "installments": "",
+            "jewelry": "",
+            "maxPrice": "",
+            "minPrice": "",
+            "name": "",
+            "price": "",
+            "priceRange": "",
+            "publishDate": "",
+            "reviewCount": "",
+            "shape": "",
+            "shortDesc": "Isaac Mizrahi Live! Suede Jacket w/ Lamb Leather Quilted Details",
+            "size1": "",
+            "size2": "",
+            "size3": "",
+            "specialMaxPrice": "",
+            "specialMinPrice": "",
+            "specialPrice": "",
+            "specialPriceType": "",
+            "texture": "",
+            "sku": "",
+            "isBestSeller": "",
+            "url": "",
+            "sellable": "",
+            "productNbr": "A266338",
+            "estEffectivePrice": "17594",
+            "estNormalPrice": "19400",
+            "brandInCategory": "",
+            "expEZPay": "N",
+            "colors": "",
+            "highlightedRanges": [
+                {
+                    "location": "49",
+                    "length": "7"
+                }
+            ]
+        },
+        "2": {
+            "numberOfSkus": 63,
+            "autodelivery": null,
+            "avgRating": "3.300000",
+            "badge": "",
+            "bedSize": "",
+            "brandName": "Liz Claiborne New York",
+            "category": "",
+            "code": "",
+            "creditTerm": "",
+            "description": "",
+            "detailColor": "",
+            "flavour": "",
+            "generic": "",
+            "hasImage": "http://images.qvc.com/is/image/a/56/a267256.001?$usmedium$",
+            "imgColorUrl": "",
+            "imgUrl": "",
+            "installments": "",
+            "jewelry": "",
+            "maxPrice": "",
+            "minPrice": "",
+            "name": "",
+            "price": "",
+            "priceRange": "",
+            "publishDate": "",
+            "reviewCount": "16",
+            "shape": "",
+            "shortDesc": "Liz Claiborne New York Tailored Fleece Jacket w/ Quilting",
+            "size1": "",
+            "size2": "",
+            "size3": "",
+            "specialMaxPrice": "",
+            "specialMinPrice": "",
+            "specialPrice": "",
+            "specialPriceType": "",
+            "texture": "",
+            "sku": "",
+            "isBestSeller": "",
+            "url": "",
+            "sellable": "",
+            "productNbr": "A267256",
+            "estEffectivePrice": "4992",
+            "estNormalPrice": "5600",
+            "brandInCategory": "",
+            "expEZPay": "N",
+            "colors": "",
+            "highlightedRanges": [
+                {
+                    "location": "49",
+                    "length": "8"
+                }
+            ]
+        },
+        "3": {
+            "numberOfSkus": 35,
+            "autodelivery": null,
+            "avgRating": "4.000000",
+            "badge": "",
+            "bedSize": "",
+            "brandName": "Quacker Factory",
+            "category": "Sweatshirts",
+            "code": "",
+            "creditTerm": "",
+            "description": "",
+            "detailColor": "",
+            "flavour": "",
+            "generic": "",
+            "hasImage": "http://images.qvc.com/is/image/a/22/a267222.001?$usmedium$",
+            "imgColorUrl": "",
+            "imgUrl": "",
+            "installments": "",
+            "jewelry": "",
+            "maxPrice": "",
+            "minPrice": "",
+            "name": "",
+            "price": "",
+            "priceRange": "",
+            "publishDate": "",
+            "reviewCount": "2",
+            "shape": "",
+            "shortDesc": "Quacker Factory Rhinestone Embellished French Terry Sweatshirt",
+            "size1": "",
+            "size2": "",
+            "size3": "",
+            "specialMaxPrice": "",
+            "specialMinPrice": "",
+            "specialPrice": "",
+            "specialPriceType": "",
+            "texture": "",
+            "sku": "",
+            "isBestSeller": "",
+            "url": "",
+            "sellable": "",
+            "productNbr": "A267222",
+            "estEffectivePrice": "4324",
+            "estNormalPrice": "4750",
+            "brandInCategory": "",
+            "expEZPay": "N",
+            "colors": "",
+            "highlightedRanges": [
+                {
+                    "location": "0",
+                    "length": "7"
+                }
+            ]
+        }
+    }
+}

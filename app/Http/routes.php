@@ -14,3 +14,6 @@
 $app->get('/', function () use ($app) {
     return $app->welcome();
 });
+
+
+$app->get('api/product/v3/{lang}/search/typeahead', 'TypeAheadController@index');
